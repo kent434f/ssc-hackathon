@@ -1,0 +1,31 @@
+domain_input,domain_response,name_response,score_response,grade_response,industry_response,size_response,timestamp
+sap.com,sap.com,SAP,85,B,technology,size_more_than_10000,2025-05-03 01:30:23
+hp.com,hp.com,HP,96,A,technology,size_more_than_10000,2025-05-03 01:30:22
+microsoft.com,microsoft.com,Microsoft Corporation,73,C,technology,size_more_than_10000,2025-05-03 01:30:23
+cisco.com,cisco.com,Cisco Systems Inc,81,B,technology,size_more_than_10000,2025-05-03 01:30:22
+amazon.com,amazon.com,Amazon,79,C,retail,size_more_than_10000,2025-05-03 01:30:23
+intel.com,intel.com,Intel Corporation,96,A,technology,size_more_than_10000,2025-05-03 01:30:23
+alphabet.com,alphabet.com,Alphabet Inc,93,A,financial_services,size_1001_to_5000,2025-05-03 01:30:24
+ibm.com,ibm.com,IBM,98,A,technology,size_more_than_10000,2025-05-03 01:30:23
+nvidia.com,nvidia.com,NVIDIA,83,B,manufacturing,size_more_than_10000,2025-05-03 01:30:24
+accenture.com,accenture.com,Accenture,97,A,information_services,size_more_than_10000,2025-05-03 01:30:24
+tcs.com,tcs.com,TATA Consultancy Services Limited,94,A,information_services,size_more_than_10000,2025-05-03 01:30:24
+dell.com,dell.com,Dell,92,A,technology,size_more_than_10000,2025-05-03 01:30:23
+apple.com,apple.com,Apple,87,B,technology,size_more_than_10000,2025-05-03 01:30:24
+cognizant.com,cognizant.com,Cognizant Technology Solutions,97,A,information_services,size_more_than_10000,2025-05-03 01:30:25
+oracle.com,oracle.com,"Oracle America, Inc.",80,B,technology,size_more_than_10000,2025-05-03 01:30:24
+wipro.com,wipro.com,Wipro,93,A,information_services,size_more_than_10000,2025-05-03 01:30:25
+infosys.com,infosys.com,Infosys,94,A,information_services,size_more_than_10000,2025-05-03 01:30:25
+hcl.com,hcl.com,HCL Group,99,A,technology,size_more_than_10000,2025-05-03 01:30:25
+atos.com,atos.com,Atos,90,A,manufacturing,size_201_to_500,2025-05-03 01:30:25
+salesforce.com,salesforce.com,Salesforce,99,A,technology,size_more_than_10000,2025-05-03 01:30:26
+capgemini.com,capgemini.com,Capgemini,97,A,information_services,size_more_than_10000,2025-05-03 01:30:26
+nttdata.com,nttdata.com,NTT DATA Group Corporation,91,A,telecommunications,size_more_than_10000,2025-05-03 01:30:25
+amd.com,amd.com,AMD,88,B,manufacturing,size_more_than_10000,2025-05-03 01:30:26
+adobe.com,adobe.com,Adobe,74,C,technology,size_more_than_10000,2025-05-03 01:30:26
+qualcomm.com,qualcomm.com,Qualcomm,88,B,manufacturing,size_more_than_10000,2025-05-03 01:30:26
+broadcom.com,broadcom.com,Broadcom Inc.,96,A,manufacturing,size_more_than_10000,2025-05-03 01:30:26
+vmware.com,vmware.com,VMware,93,A,technology,size_more_than_10000,2025-05-03 01:30:25
+fujitsu.com,fujitsu.com,Fujitsu,94,A,information_services,size_more_than_10000,2025-05-03 01:30:26
+lenovo.com,lenovo.com,Lenovo,85,B,technology,size_more_than_10000,2025-05-03 01:30:27
+xiaomi.com,xiaomi.com,Xiaomi,79,C,unknown,unknown,2025-05-03 01:30:27

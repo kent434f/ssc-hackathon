@@ -1,0 +1,15 @@
+domain,product,file
+adobe.com,CrowdStrike Falcon,products\adobe_com_20250503_013021.csv
+amazon.com,CrowdStrike Falcon,products\amazon_com_20250503_013021.csv
+broadcom.com,CrowdStrike Falcon,products\broadcom_com_20250503_013021.csv
+cisco.com,CrowdStrike Falcon,products\cisco_com_20250503_013021.csv
+dell.com,CrowdStrike Falcon,products\dell_com_20250503_013021.csv
+dell.com,CrowdStrike Falcon Prevent,products\dell_com_20250503_013021.csv
+hp.com,CrowdStrike Falcon,products\hp_com_20250503_013021.csv
+ibm.com,CrowdStrike Falcon,products\ibm_com_20250503_013021.csv
+microsoft.com,CrowdStrike Falcon,products\microsoft_com_20250503_013021.csv
+microsoft.com,CrowdStrike Falcon Prevent,products\microsoft_com_20250503_013021.csv
+oracle.com,CrowdStrike Falcon,products\oracle_com_20250503_013021.csv
+oracle.com,CrowdStrike Falcon X,products\oracle_com_20250503_013021.csv
+salesforce.com,CrowdStrike Falcon,products\salesforce_com_20250503_013021.csv
+salesforce.com,CrowdStrike Falcon Prevent,products\salesforce_com_20250503_013021.csv
