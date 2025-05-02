@@ -2,7 +2,7 @@
 
 A tool to help find vendors or suppliers that might be affected by a product-related breach, vulnerability, or outage. Security teams can use this to identify which vendors are using specific products, helping them respond to security incidents.
 
-**📒 Google Colab Demo:** [https://colab.research.google.com/drive/17b1AuK0IC8if8iQGcsyH1QnYfE8trjtH?usp=sharing](https://colab.research.google.com/drive/17b1AuK0IC8if8iQGcsyH1QnYfE8trjtH?usp=sharing)
+**📒 Google Colab Demo:** [https://colab.research.google.com/drive/17b1AuK0IC8if8iQGcsyH1QnYfE8trjtH?usp=sharing](https://colab.research.google.com/drive/17b1AuK0IC8if8iQGcsyH1QnYfE8trjtH?usp=sharing)  
 **▶️ Video Demo:** [https://streamable.com/voi8z3](https://streamable.com/voi8z3)
 
 
