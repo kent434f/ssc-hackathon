@@ -2,6 +2,8 @@
 
 A tool to help find vendors or suppliers that might be affected by a product-related breach, vulnerability, or outage. Security teams can use this to identify which vendors are using specific products, helping them respond to security incidents.
 
+**Google Colab Demo:** [https://colab.research.google.com/drive/17b1AuK0IC8if8iQGcsyH1QnYfE8trjtH?usp=sharing](https://colab.research.google.com/drive/17b1AuK0IC8if8iQGcsyH1QnYfE8trjtH?usp=sharing)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
@@ -18,7 +20,6 @@ A tool to help find vendors or suppliers that might be affected by a product-rel
   - [Search Interface](#search-interface)
   - [Export Functionality](#export-functionality)
 - [Technical Details](#technical-details)
-  - [Security Best Practices](#security-best-practices)
   - [Canonical Domain Resolution](#canonical-domain-resolution)
   - [API Integration](#api-integration)
   - [Data Processing Pipeline](#data-processing-pipeline)
@@ -89,7 +90,6 @@ pandas
 matplotlib
 tqdm
 ipywidgets
-concurrent.futures
 python-dotenv
 ```
 
