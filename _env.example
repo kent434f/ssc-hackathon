@@ -1,0 +1,4 @@
+# SecurityScorecard API Configuration
+# Replace with your actual values
+SSC_API_TOKEN=your_api_token_here
+SSC_PORTFOLIO_ID=your_portfolio_id_here
