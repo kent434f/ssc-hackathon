@@ -2,6 +2,38 @@
 
 A tool to help find vendors or suppliers that might be affected by a product-related breach, vulnerability, or outage. Security teams can use this to identify which vendors are using specific products, helping them respond to security incidents.
 
+## Table of Contents
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Performance Optimizations](#performance-optimizations)
+  - [Concurrency](#concurrency)
+  - [Memory Optimization](#memory-optimization)
+  - [File Organization](#file-organization)
+- [Usage Instructions](#usage-instructions)
+  - [Prerequisites](#prerequisites)
+  - [Required Python Libraries](#required-python-libraries)
+  - [Setup](#setup)
+  - [Input Domains File](#input-domains-file)
+  - [Running the Tool](#running-the-tool)
+  - [Search Interface](#search-interface)
+  - [Export Functionality](#export-functionality)
+- [Technical Details](#technical-details)
+  - [Security Best Practices](#security-best-practices)
+  - [Canonical Domain Resolution](#canonical-domain-resolution)
+  - [API Integration](#api-integration)
+  - [Data Processing Pipeline](#data-processing-pipeline)
+  - [Data Pipeline Visualization](#data-pipeline-visualization)
+  - [API Integration Flow](#api-integration-flow)
+  - [Canonical Domain Resolution Process](#canonical-domain-resolution-process)
+- [Error Handling](#error-handling)
+  - [Common Issues and Solutions](#common-issues-and-solutions)
+- [Visualization Capabilities](#visualization-capabilities)
+- [Use Cases](#use-cases)
+  - [Incident Response](#incident-response)
+  - [Vendor Risk Management](#vendor-risk-management)
+  - [Compliance and Reporting](#compliance-and-reporting)
+- [Acknowledgements](#acknowledgements)
+
 ## Overview
 
 The Product Usage Search Tool leverages SecurityScorecard's APIs to:
